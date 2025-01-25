@@ -546,6 +546,45 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Top 12 activities is Mwanza",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See the top 12activities&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box2-2f"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -694,42 +733,27 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+            ".mbr-section-title": {
+              "color": "#efefef"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#000000"
           },
-          "title": "Top 12 activities is Mwanza",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See the top 12activities&nbsp;</a>",
+          "title": "We are looking for volunteers",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
+          "_name": "header3",
           "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box2-2f"
+          "_anchor": "header3-2i"
         },
         {
           "_inherit": "social-buttons2",
@@ -761,30 +785,6 @@
           "text": "Follow us on social media",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_sourceTheme": "mobirise3"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#efefef"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#000000"
-          },
-          "title": "We are looking for volunteers",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-2i"
         },
         {
           "_tags": [

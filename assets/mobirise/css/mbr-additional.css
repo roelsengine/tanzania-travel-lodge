@@ -558,6 +558,12 @@ section.form .container {
 #features3-i P {
   color: #ffffff;
 }
+#msg-box2-2f .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-2f .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #header3-v .mbr-section-title,
 #header3-v .mbr-section-subtitle {
   text-align: center;
@@ -572,11 +578,12 @@ section.form .container {
 #header3-v .mbr-section-title {
   font-size: 32px;
 }
-#msg-box2-2f .mbr-section-title {
-  color: #fff;
+#header3-2i .mbr-section-title,
+#header3-2i .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box2-2f .mbr-section-subtitle {
-  color: #a0a0a0;
+#header3-2i .mbr-section-title {
+  color: #efefef;
 }
 #social-buttons4-7 .mbr-section-title,
 #social-buttons4-7 .btn-social {
@@ -584,13 +591,6 @@ section.form .container {
 }
 #social-buttons4-7 .mbr-section-title {
   font-size: 36px;
-}
-#header3-2i .mbr-section-title,
-#header3-2i .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2i .mbr-section-title {
-  color: #efefef;
 }
 #form1-x .form-control-label {
   color: #232323;
