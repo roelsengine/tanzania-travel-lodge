@@ -224,29 +224,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content2-2p",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef",
-              "text-align": "center"
-            },
-            "BLOCKQUOTE": {
-              "font-size": "20px"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -280,6 +257,29 @@
           "_sourceTheme": "mobirise3"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content2-2p",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
@@ -294,11 +294,11 @@
             "images": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-city-tour-200x132.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-city-tour-200x132-200x132.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-rubondo-island-national-parc-200x112.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-rubondo-island-national-parc-200x112-200x112.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -306,7 +306,7 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
@@ -317,66 +317,66 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-sanaane-island-national-parc-200x112.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-sanaane-island-national-parc-200x112-200x112.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lake-view-in-the-evening.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lake-view-in-the-evening.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/preview-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-bush.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-bush.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-camping-tent.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-camping-tent.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -510,7 +510,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -522,7 +522,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -602,7 +602,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -610,7 +610,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true

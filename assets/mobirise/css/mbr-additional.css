@@ -519,13 +519,6 @@ section.form .container {
 #slider-e P {
   font-size: 24px;
 }
-#content2-2p DIV {
-  color: #efefef;
-  text-align: center;
-}
-#content2-2p BLOCKQUOTE {
-  font-size: 20px;
-}
 #header3-f .mbr-section-title,
 #header3-f .mbr-section-subtitle {
   text-align: center;
@@ -541,6 +534,13 @@ section.form .container {
 #header3-f .mbr-section-title {
   color: #efefef;
   font-size: 23px;
+}
+#content2-2p DIV {
+  color: #efefef;
+  text-align: center;
+}
+#content2-2p BLOCKQUOTE {
+  font-size: 20px;
 }
 #header3-2g .mbr-section-title,
 #header3-2g .mbr-section-subtitle {
