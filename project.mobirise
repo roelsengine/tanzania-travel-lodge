@@ -165,7 +165,7 @@
             "timeout": "7",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -177,11 +177,11 @@
                 "showText": true,
                 "text": "Mwanza lake view farm. Eco lodges from locals",
                 "showButtons": true,
-                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Bekijk een voorproefje</a> ",
+                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">check availability</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Ask an expert</a> ",
                 "alt": "tanzania-travel-lodge"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-bush.webp",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -190,6 +190,22 @@
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Tanzania Mwanza lake view eco lodges",
+                "showText": true,
+                "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
+                "alt": "tanzania-travel-lodge-bush"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Tanzania serengety safari",
                 "showText": true,
                 "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
                 "showButtons": true,
@@ -414,7 +430,7 @@
             "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -488,9 +504,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "camping ground tents",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Available with shower",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -1495,33 +1511,6 @@
           "text": "Copyright (c) 20125 rOels.engine",
           "_sourceTheme": "mobirise3",
           "_anchor": "footer1-1s"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "contacts2-2r"
         }
       ]
     },
@@ -2091,33 +2080,6 @@
           "text": "Copyright (c) 20125 rOels.engine",
           "_sourceTheme": "mobirise3",
           "_anchor": "footer1-2b"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "contacts2-2r"
         }
       ]
     }
