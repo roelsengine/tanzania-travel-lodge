@@ -540,7 +540,7 @@ section.form .container {
 }
 #header3-f .mbr-section-title {
   color: #efefef;
-  font-size: 46px;
+  font-size: 23px;
 }
 #header3-2g .mbr-section-title,
 #header3-2g .mbr-section-subtitle {
@@ -557,14 +557,6 @@ section.form .container {
 }
 #features3-i P {
   color: #ffffff;
-}
-#social-buttons2-2q .mbr-section-title,
-#social-buttons2-2q .btn-social {
-  color: #232323;
-}
-#social-buttons2-2q .btn-social > * {
-  vertical-align: middle;
-  padding-right: 0;
 }
 #msg-box2-2f .mbr-section-title {
   color: #fff;
@@ -586,12 +578,6 @@ section.form .container {
 #header3-2i .mbr-section-title {
   color: #efefef;
 }
-#form2-12 .mbr-section-title {
-  color: #fff;
-}
-#form2-12 .mbr-section-subtitle {
-  color: #a0a0a0;
-}
 #header3-v .mbr-section-title,
 #header3-v .mbr-section-subtitle {
   text-align: center;
@@ -603,12 +589,14 @@ section.form .container {
 #header3-v SMALL {
   color: #f3c649;
 }
-#msg-box3-u .mbr-section-title,
-#msg-box3-u p {
-  color: #000;
+#header3-v .mbr-section-title {
+  font-size: 32px;
 }
-#msg-box3-u .mbr-section-title {
-  color: #ffffff;
+#form2-12 .mbr-section-title {
+  color: #fff;
+}
+#form2-12 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #form1-x .form-control-label {
   color: #232323;
