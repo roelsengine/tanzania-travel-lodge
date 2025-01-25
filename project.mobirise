@@ -474,7 +474,7 @@
           },
           "title2": "7&nbsp; Lodges 2 to 3 persons",
           "subtitle2": "voorbeeld project",
-          "caption2": "private bathroom",
+          "caption2": "private bathroom 50,-&nbsp;for each person per night",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Book lodge now</a> ",
           "media3": {
             "image": {
@@ -490,7 +490,7 @@
           },
           "title3": "2 Small lodge 1 to 2 persons",
           "subtitle3": "voorbeeld projects",
-          "caption3": "private bathroom",
+          "caption3": "private bathroom 50,-&nbsp;for each person per night",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book small lodge</a>",
           "media4": {
             "image": {
@@ -506,8 +506,8 @@
           },
           "title4": "camping ground tents",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Available with shower",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption4": "Available with shower 15,-&nbsp;for each tent per night",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">book tent</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
