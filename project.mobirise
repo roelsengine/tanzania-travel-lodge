@@ -170,10 +170,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.4",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Tanzania Serengeti safari",
+                "title": "The Tanzania Serengeti safari specialist",
                 "showText": true,
                 "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
                 "showButtons": true,
@@ -220,6 +220,10 @@
           "_styles": {
             "P": {
               "font-size": "24px"
+            },
+            "H2": {
+              "font-size": "46px",
+              "color": "#efefef"
             }
           }
         },
