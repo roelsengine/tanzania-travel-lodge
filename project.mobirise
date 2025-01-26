@@ -683,7 +683,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "5",
@@ -777,7 +777,7 @@
           },
           "title5": "camping tents",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Available with shower 15,- for each tent per night",
+          "caption5": "Bagpackers delight Available with shower 15,- for each tent per night",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -918,7 +918,7 @@
             "iconsBgColor": "#f2f2f2",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "6",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
