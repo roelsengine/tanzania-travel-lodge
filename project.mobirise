@@ -275,7 +275,7 @@
               "text-align": "center"
             },
             "BLOCKQUOTE": {
-              "font-size": "20px"
+              "font-size": "23px"
             }
           }
         },
@@ -458,7 +458,7 @@
           },
           "title1": "3 Safari tents",
           "subtitle1": "voorbeeld project",
-          "caption1": "private bathroom<br>50.- for each person per night",
+          "caption1": "private bathroom<br>50.- for each person per night, including breakfast, lunch and diner.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Book tent now</a>  ",
           "media2": {
             "image": {
