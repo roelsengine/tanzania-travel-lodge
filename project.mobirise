@@ -494,7 +494,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book small lodge</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/brons-2000x2670.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-camping-camper-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
