@@ -572,11 +572,37 @@ section.form .container {
 #header3-v .mbr-section-title {
   font-size: 32px;
 }
+#header3-2s .mbr-section-title,
+#header3-2s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2s .mbr-section-title {
+  color: #efefef;
+}
+#content6-2w .lead {
+  color: #cccccc;
+}
+#features4-2u .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2u .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-2u H4 {
+  color: #efefef;
+}
 #msg-box2-2f .mbr-section-title {
   color: #fff;
 }
 #msg-box2-2f .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#testimonials3-2v .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-2v .mbr-author-name {
+  color: #ccc;
 }
 #header3-2i .mbr-section-title,
 #header3-2i .mbr-section-subtitle {
