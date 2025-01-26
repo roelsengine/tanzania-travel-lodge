@@ -583,9 +583,6 @@ section.form .container {
 #header3-2s .mbr-section-title {
   color: #efefef;
 }
-#content6-2w .lead {
-  color: #cccccc;
-}
 #features4-2u .card-subtitle {
   color: #bcbcbc;
 }
@@ -601,6 +598,15 @@ section.form .container {
 }
 #msg-box2-2f .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#features3-2o H4 {
+  color: #cccccc;
+}
+#features3-2o H5 {
+  color: #efefef;
+}
+#features3-2o P {
+  color: #efefef;
 }
 #header3-2i .mbr-section-title,
 #header3-2i .mbr-section-subtitle {

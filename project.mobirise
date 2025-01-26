@@ -877,26 +877,6 @@
           "_anchor": "header3-2s"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text1": "<p>Textual description on a day in lake view farm. local me guide</p>",
-          "text2": "<p>personell</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content6-2w",
-          "_styles": {
-            ".lead": {
-              "color": "#cccccc"
-            }
-          }
-        },
-        {
           "_styles": {
             ".card-subtitle": {
               "color": "#bcbcbc"
@@ -1079,12 +1059,12 @@
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1182,7 +1162,18 @@
           ],
           "_name": "features3",
           "_sourceTheme": "mobirise3",
-          "_anchor": "features3-2o"
+          "_anchor": "features3-2o",
+          "_styles": {
+            "H4": {
+              "color": "#cccccc"
+            },
+            "H5": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_styles": {
