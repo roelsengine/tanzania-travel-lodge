@@ -547,6 +547,51 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            "SMALL": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#020010"
+          },
+          "title": "To book an vacation",
+          "meta": "please call our experts",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel: 0031 (0) 45 5413012\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Call+31</a>  ",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
             ".mbr-section-title": {
               "color": "#fff"
             },
@@ -685,51 +730,6 @@
           "_name": "features3",
           "_sourceTheme": "mobirise3",
           "_anchor": "features3-2o"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff",
-              "font-size": "30px"
-            },
-            "SMALL": {
-              "color": "#f3c649"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-v",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#020010"
-          },
-          "title": "To book an vacation",
-          "meta": "please call our experts",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-o",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel: 0031 (0) 45 5413012\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Call+31</a>  ",
-          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
