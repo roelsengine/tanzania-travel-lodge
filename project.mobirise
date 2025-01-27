@@ -223,8 +223,8 @@
               "color": "#000000"
             },
             "H2": {
-              "font-size": "46px",
-              "color": "#efefef"
+              "font-size": "36px",
+              "color": "#000000"
             }
           }
         },
