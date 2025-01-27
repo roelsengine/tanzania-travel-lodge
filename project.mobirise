@@ -295,7 +295,7 @@
             "filterBgColor": true,
             "bgColor": "#000000",
             "showText": true,
-            "filter": false,
+            "filter": true,
             "images": [
               {
                 "tags": "Awesome",
