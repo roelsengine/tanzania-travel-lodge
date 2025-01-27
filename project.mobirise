@@ -220,11 +220,11 @@
           "_styles": {
             "P": {
               "font-size": "24px",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "H2": {
               "font-size": "36px",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         },
