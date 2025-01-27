@@ -165,7 +165,7 @@
             "timeout": "7",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -197,8 +197,8 @@
                 "alt": "tanzania-travel-lodge"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-bush.webp",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-the-lake.webp",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -209,7 +209,7 @@
                 "showText": true,
                 "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
                 "alt": "tanzania-travel-lodge-bush"
               }
             ]
@@ -219,7 +219,8 @@
           "_sourceTheme": "mobirise3",
           "_styles": {
             "P": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "color": "#000000"
             },
             "H2": {
               "font-size": "46px",
