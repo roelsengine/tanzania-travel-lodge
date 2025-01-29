@@ -547,6 +547,15 @@ section.form .container {
 #content2-2p BLOCKQUOTE {
   font-size: 21px;
 }
+#features3-2o H4 {
+  color: #cccccc;
+}
+#features3-2o H5 {
+  color: #efefef;
+}
+#features3-2o P {
+  color: #efefef;
+}
 #header3-2g .mbr-section-title,
 #header3-2g .mbr-section-subtitle {
   text-align: center;
@@ -599,15 +608,6 @@ section.form .container {
 }
 #msg-box2-2f .mbr-section-subtitle {
   color: #a0a0a0;
-}
-#features3-2o H4 {
-  color: #cccccc;
-}
-#features3-2o H5 {
-  color: #efefef;
-}
-#features3-2o P {
-  color: #efefef;
 }
 #header3-2i .mbr-section-title,
 #header3-2i .mbr-section-subtitle {
