@@ -1059,7 +1059,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel: 0031 (0) 45 5413012\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Call+31</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"tel: 0031 (0) 45 5413012\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Call+31</a>  ",
           "_sourceTheme": "mobirise3"
         },
         {
