@@ -28,7 +28,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 107,
+    "uniqCompNum": 108,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -291,7 +291,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#cccccc"
+              "color": "#cccccc",
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -446,27 +447,58 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            "SMALL": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#020010"
+          },
+          "title": "Aminities",
+          "meta": "services available",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2z",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
             ".card-subtitle": {
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "#7c706b",
+              "border-color": "#7c706b"
             },
             "H4": {
               "color": "#efefef"
             }
           },
           "_params": {
-            "showImages": true,
+            "showImages": false,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "#7c706b",
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "4",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1090,7 +1122,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "22px"
             }
           },
           "_params": {

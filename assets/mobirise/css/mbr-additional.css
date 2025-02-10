@@ -553,6 +553,7 @@ section.form .container {
 }
 #header3-2g .mbr-section-title {
   color: #cccccc;
+  font-size: 32px;
 }
 #features3-i H5 {
   color: #efefef;
@@ -563,12 +564,26 @@ section.form .container {
 #features3-i P {
   color: #ffffff;
 }
+#header3-2z .mbr-section-title,
+#header3-2z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2z H3 {
+  color: #ffffff;
+  font-size: 30px;
+}
+#header3-2z SMALL {
+  color: #f3c649;
+}
+#header3-2z .mbr-section-title {
+  font-size: 32px;
+}
 #features4-2u .card-subtitle {
   color: #bcbcbc;
 }
 #features4-2u .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+  background-color: #7c706b;
+  border-color: #7c706b;
 }
 #features4-2u H4 {
   color: #efefef;
@@ -594,6 +609,10 @@ section.form .container {
 }
 #header3-2x .mbr-section-title {
   color: #efefef;
+  font-size: 36px;
+}
+#header3-2x .mbr-section-subtitle {
+  font-size: 22px;
 }
 #features3-2o H4 {
   color: #cccccc;
