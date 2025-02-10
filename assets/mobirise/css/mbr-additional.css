@@ -573,6 +573,10 @@ section.form .container {
 #features4-2u H4 {
   color: #efefef;
 }
+#header3-2y .mbr-section-title,
+#header3-2y .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-2x .mbr-section-title,
 #header3-2x .mbr-section-subtitle {
   text-align: center;
