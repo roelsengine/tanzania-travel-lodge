@@ -1053,16 +1053,19 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016",
+          "title": "Optional trips can be arranged",
+          "meta": "All these must have a booking in our farm",
           "_tags": [
             "Theme"
           ],
@@ -1153,13 +1156,13 @@
               "active": true
             }
           },
-          "title1": "Safari",
+          "title1": "Lodge +Safari",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Culture",
+          "title2": "Lodge + Culture",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Zanzibar",
+          "title3": "Lodge + Zanzibar",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Charity",
