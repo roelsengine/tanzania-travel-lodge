@@ -577,6 +577,16 @@ section.form .container {
 #header3-2y .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2y .mbr-section-title {
+  color: #efefef;
+}
+#social-buttons4-7 .mbr-section-title,
+#social-buttons4-7 .btn-social {
+  color: #fff;
+}
+#social-buttons4-7 .mbr-section-title {
+  font-size: 36px;
+}
 #header3-2x .mbr-section-title,
 #header3-2x .mbr-section-subtitle {
   text-align: center;
@@ -593,13 +603,6 @@ section.form .container {
 #features3-2o P {
   color: #efefef;
 }
-#header3-2s .mbr-section-title,
-#header3-2s .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2s .mbr-section-title {
-  color: #efefef;
-}
 #msg-box2-2f .mbr-section-title {
   color: #fff;
 }
@@ -612,13 +615,6 @@ section.form .container {
 }
 #header3-2i .mbr-section-title {
   color: #efefef;
-}
-#social-buttons4-7 .mbr-section-title,
-#social-buttons4-7 .btn-social {
-  color: #fff;
-}
-#social-buttons4-7 .mbr-section-title {
-  font-size: 36px;
 }
 #form1-x .form-control-label {
   color: #232323;
