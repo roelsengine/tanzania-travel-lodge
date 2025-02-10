@@ -585,7 +585,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "32px"
             }
           },
           "_params": {
