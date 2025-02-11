@@ -711,6 +711,9 @@ section.form .container {
 #msg-box7-35 p {
   color: #fff;
 }
+#msg-box7-35 P {
+  font-size: 24px;
+}
 #msg-box7-3b h3,
 #msg-box7-3b p {
   color: #fff;
@@ -731,6 +734,10 @@ section.form .container {
 }
 #msg-box7-3e P {
   font-size: 24px;
+}
+#msg-box3-3i .mbr-section-title,
+#msg-box3-3i .lead {
+  color: #000;
 }
 #form1-x .form-control-label {
   color: #232323;
