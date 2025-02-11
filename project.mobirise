@@ -491,7 +491,8 @@
               "text-align": "left"
             },
             "DIV": {
-              "font-size": "12px"
+              "font-size": "12px",
+              "text-align": "center"
             }
           },
           "_params": {
