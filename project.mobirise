@@ -9,7 +9,7 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#7c706b",
         "successColor": "#45fa00",
-        "infoColor": "#ff008d",
+        "infoColor": "#ff0097",
         "warningColor": "#fac51c",
         "dangerColor": "#2969b0",
         "titleFont": "Montserrat",
@@ -22,7 +22,8 @@
       },
       "additionalSetColors": [
         "#ff008d",
-        "#000e36"
+        "#000e36",
+        "#ff0097"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
