@@ -490,7 +490,8 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "32px"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0",
@@ -511,9 +512,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Opening 2025\r<div>Serengeti Glamping. \r</div><div>Opposite Mdabaka gate</div>",
-          "subtitle": "New luxuary tents",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get an update</a>",
+          "title": "Opening 2025\n<div>Serengeti Glamping. \n</div><div>Opposite Mdabaka gate</div>",
+          "subtitle": "New luxuary safari tents, subscribe for an update",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get an update</a>",
           "form": {
             "action": "papercliq@outlook.com",
             "alerts": {
@@ -713,9 +714,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#a38f84"
+            "bgColor": "#cff349"
           },
-          "text": "",
+          "text": "<i style=\"\">Are you looking for volunteering with us,&nbsp;</i>",
           "_tags": [
             "Theme"
           ],
@@ -727,7 +728,11 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           }
         },

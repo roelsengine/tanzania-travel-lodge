@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 .subtitleFont {
   font-family: 'Lora', serif;
@@ -573,6 +575,7 @@ section.form .container {
 }
 #form2-3a .mbr-section-title {
   color: #fff;
+  font-size: 32px;
 }
 #form2-3a .mbr-section-subtitle {
   color: #a0a0a0;
@@ -613,6 +616,9 @@ section.form .container {
 }
 #content1-38 DIV {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Lora', serif;
+  text-align: center;
 }
 #msg-box2-30 .mbr-section-title {
   color: #fff;
