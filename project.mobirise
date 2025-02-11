@@ -488,7 +488,7 @@
             "H4": {
               "color": "#efefef",
               "font-size": "12px",
-              "text-align": "left"
+              "text-align": "center"
             },
             "DIV": {
               "font-size": "12px",
