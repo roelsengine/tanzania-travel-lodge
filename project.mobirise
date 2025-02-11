@@ -29,7 +29,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 116,
+    "uniqCompNum": 117,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -591,22 +591,22 @@
               "color": "black"
             }
           },
-          "title1": "Wifi (extra GB for a fee)",
+          "title1": "Wifi (extra GB for a fee)<br>locale guide",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "board, excluding drinks<div>Socially involved</div>",
+          "title2": "Restaurant, full board, excluding drinks.<br><div>pool</div><br><div><br></div>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Spacious rooms <br>Comfortable bed\n<div>Ensuite bathroom</div>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Restaurant\n<div>Lounge bar\n</div><div>Laundry service</div>",
+          "title4": "with shower and toilet\r<div>Mosquito net\r</div><div><br></div>",
           "subtitle4": "<div>&nbsp;you the freedom to develop</div>",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "with shower and toilet\r<div>Mosquito net</div>",
+          "title5": "<div><span style=\"background-color: initial;\">Laundry service,</span><br></div><div>cleaning service, car service with driver</div><div>\n</div>",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Lake view\r<div>\r</div><div>Porch\r</div><div>Beach chairs\r</div><div>Parasols</div>",
+          "title6": "Lounge bar<br>Lake view\n<div>\n</div><div>Porch</div><div>\n</div><div>bar</div><div>Beach chairs\n</div><div>Parasols</div><div>boat service</div>",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -621,6 +621,28 @@
           "_name": "features4",
           "_sourceTheme": "mobirise3",
           "_anchor": "features4-2u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<p>Wifi\n</p><p>Fietsen \n</p><p>Zwembad \n</p><p>Restaurant \n</p><p>Terrassen \n</p><p>Boot services om te varen \n</p><p>Auto services met chauffeur \n</p><p>Lokale gids \n</p><p>Was service \n</p><p>Schoonmaak service \n</p><p>Bar \n</p><p>Culturele activiteiten</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content1-38",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -1509,7 +1531,7 @@
               "size": 0
             }
           },
-          "title": "Acitivity",
+          "title": "Wifi<div>Fietsen&nbsp;</div><div>Zwembad&nbsp;</div><div>Restaurant&nbsp;</div><div>Terrassen&nbsp;</div><div>Boot services om te varen&nbsp;</div><div>Auto services met chauffeur&nbsp;</div><div>Lokale gids&nbsp;</div><div>Was service&nbsp;</div><div>Schoonmaak service&nbsp;</div><div>Bar&nbsp;</div><div>Culturele&nbsp;activiteiten</div>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
