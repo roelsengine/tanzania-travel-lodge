@@ -30,7 +30,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 122,
+    "uniqCompNum": 123,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -713,9 +713,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#a38f84"
           },
-          "text": "<p><br></p><p>Culturele activiteiten</p>",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -1561,64 +1561,6 @@
           "_anchor": "msg-box2-2f"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "39",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box5-36",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
           "_inherit": "msg-box5",
           "_styles": {
             "h3, p": {
@@ -1682,6 +1624,9 @@
           "_styles": {
             "h3, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -1708,7 +1653,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-bismarckrock-1-200x133.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false,
@@ -1741,6 +1686,9 @@
           "_styles": {
             "h3, p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -1793,6 +1741,68 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-3c",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "37",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<div><br></div><div>3. Saanane Island National Park</div><div><br></div>",
+          "text": "Het eerste nationale eilandpark in Tanzania, bekend om zijn prachtige natuur, vogels en kleine wilde dieren zoals impala’s, apen en reptielen. Perfect voor een korte dagtrip.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-3e",
           "_sourceTheme": "mobirise3"
         },
         {
