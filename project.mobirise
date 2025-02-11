@@ -234,19 +234,19 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
+              "color": "#a38f84",
               "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -262,7 +262,7 @@
             "overlayOpacity": 0.5
           },
           "title": "We are looking for volunteers",
-          "text": "Cut down the development time with drag-and-drop website builder.",
+          "text": "If you have the ambition bla bla",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read about the vacancies</a>",
           "_tags": [
             "Theme"
