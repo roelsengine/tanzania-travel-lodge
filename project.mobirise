@@ -29,7 +29,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 117,
+    "uniqCompNum": 118,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -445,6 +445,30 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#7c706b"
+          },
+          "title": "Opening 2025<div>Serengeti Glamping.&nbsp;</div><div>Opposite&nbsp;Mdabaka&nbsp;gate.</div>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-39"
         },
         {
           "_styles": {
