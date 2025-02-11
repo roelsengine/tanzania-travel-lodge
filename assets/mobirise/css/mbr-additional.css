@@ -564,12 +564,12 @@ section.form .container {
 #features3-i P {
   color: #ffffff;
 }
-#header3-39 .mbr-section-title,
-#header3-39 .mbr-section-subtitle {
-  text-align: center;
+#form2-3a .mbr-section-title {
+  color: #fff;
 }
-#header3-39 .mbr-section-title {
-  color: #efefef;
+#form2-3a .mbr-section-subtitle {
+  color: #a0a0a0;
+  font-size: 30px;
 }
 #header3-2z .mbr-section-title,
 #header3-2z .mbr-section-subtitle {
