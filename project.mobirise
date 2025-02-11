@@ -31,7 +31,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 130,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -239,7 +239,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cff349"
+            "bgColor": "#ff0097"
           },
           "text": "<i style=\"\">Are you looking for volunteering with us,&nbsp;</i>",
           "_tags": [
@@ -701,32 +701,6 @@
           "_anchor": "features4-2u"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#d0f939"
-          },
-          "text": "<i style=\"\">Are you looking for volunteering with us,&nbsp;</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content1-38",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "font-size": "32px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
@@ -769,6 +743,32 @@
           "_name": "msg-box2",
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box2-30"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ff0097"
+          },
+          "text": "<i style=\"\">Are you looking for volunteering with us,&nbsp;</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3j",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -1276,32 +1276,6 @@
           "_sourceTheme": "mobirise3"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cff349"
-          },
-          "text": "<i style=\"\">Are you looking for volunteering with us,&nbsp;</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "font-size": "32px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3g",
-          "_sourceTheme": "mobirise3"
-        },
-        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
@@ -1343,6 +1317,32 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-32",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ff0097"
+          },
+          "text": "<i style=\"\">Are you looking for volunteering with us,&nbsp;</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3k",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -1827,6 +1827,32 @@
           ],
           "_name": "msg-box7",
           "_anchor": "msg-box7-3e",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ff0097"
+          },
+          "text": "<i style=\"\">Are you looking for volunteering with us,&nbsp;</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3l",
           "_sourceTheme": "mobirise3"
         },
         {

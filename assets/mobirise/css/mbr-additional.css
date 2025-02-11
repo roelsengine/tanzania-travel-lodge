@@ -4,6 +4,7 @@
 
 
 
+
 .subtitleFont {
   font-family: 'Lora', serif;
   font-style: normal;
@@ -618,15 +619,6 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
-#content1-38 P {
-  text-align: center;
-}
-#content1-38 DIV {
-  color: #ffffff;
-  font-size: 32px;
-  font-family: 'Lora', serif;
-  text-align: center;
-}
 #msg-box2-30 .mbr-section-title {
   color: #fff;
   font-size: 32px;
@@ -637,6 +629,15 @@ section.form .container {
 }
 #msg-box2-30 .btn {
   font-size: 20px;
+}
+#content1-3j P {
+  text-align: center;
+}
+#content1-3j DIV {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Lora', serif;
+  text-align: center;
 }
 #header3-2y .mbr-section-title,
 #header3-2y .mbr-section-subtitle {
@@ -653,15 +654,6 @@ section.form .container {
 #social-buttons4-7 .mbr-section-title {
   font-size: 36px;
 }
-#content1-3g P {
-  text-align: center;
-}
-#content1-3g DIV {
-  color: #ffffff;
-  font-size: 32px;
-  font-family: 'Lora', serif;
-  text-align: center;
-}
 #msg-box2-32 .mbr-section-title {
   color: #fff;
   font-size: 32px;
@@ -672,6 +664,15 @@ section.form .container {
 }
 #msg-box2-32 .btn {
   font-size: 20px;
+}
+#content1-3k P {
+  text-align: center;
+}
+#content1-3k DIV {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Lora', serif;
+  text-align: center;
 }
 #header3-2x .mbr-section-title,
 #header3-2x .mbr-section-subtitle {
@@ -737,6 +738,15 @@ section.form .container {
 }
 #msg-box7-3e P {
   font-size: 24px;
+}
+#content1-3l P {
+  text-align: center;
+}
+#content1-3l DIV {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Lora', serif;
+  text-align: center;
 }
 #msg-box3-3i .mbr-section-title,
 #msg-box3-3i .lead {
