@@ -520,6 +520,9 @@ section.form .container {
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#ext_menu-2 A {
+  font-size: 15px;
+}
 #slider-e P {
   font-size: 24px;
   color: #ffffff;
@@ -805,6 +808,9 @@ section.form .container {
 #ext_menu-1q .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#ext_menu-1q A {
+  font-size: 15px;
+}
 #msg-box8-1t .mbr-section-title,
 #msg-box8-1t .lead {
   color: #fff;
@@ -885,6 +891,9 @@ section.form .container {
 #ext_menu-25 .link[aria-expanded="true"],
 #ext_menu-25 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#ext_menu-25 A {
+  font-size: 15px;
 }
 #msg-box8-23 .mbr-section-title,
 #msg-box8-23 .lead {

@@ -115,6 +115,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -2041,6 +2044,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -2511,6 +2517,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
