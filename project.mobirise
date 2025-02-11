@@ -487,11 +487,11 @@
             },
             "H4": {
               "color": "#efefef",
-              "font-size": "16px",
+              "font-size": "24px",
               "text-align": "center"
             },
             "DIV": {
-              "font-size": "16px",
+              "font-size": "24px",
               "text-align": "center"
             }
           },
