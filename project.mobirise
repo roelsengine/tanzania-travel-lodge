@@ -487,11 +487,11 @@
             },
             "H4": {
               "color": "#efefef",
-              "font-size": "12px",
+              "font-size": "16px",
               "text-align": "center"
             },
             "DIV": {
-              "font-size": "12px",
+              "font-size": "16px",
               "text-align": "center"
             }
           },
@@ -599,7 +599,7 @@
           "title3": "Spacious rooms <br>Comfortable bed\n<div>Ensuite bathroom</div>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "MobiRestaurant\n<div>Lounge bar\n</div><div>Laundry servicerise gves</div>",
+          "title4": "Restaurant\n<div>Lounge bar\n</div><div>Laundry service</div>",
           "subtitle4": "<div>&nbsp;you the freedom to develop</div>",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "with shower and toilet\r<div>Mosquito net</div>",
