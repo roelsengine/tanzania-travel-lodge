@@ -184,7 +184,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20relaxing%20by%20the%20beach.webp",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -200,7 +200,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-the-lake.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20the%20lake.webp",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -341,7 +341,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-camping-tent.webp",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20camping%20tent.webp",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -357,7 +357,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Book tent now</a>  ",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lodge-bedroom.webp",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20lodge%20bedroom.webp",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -373,7 +373,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Book lodge now</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-view.webp",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20view.webp",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -706,7 +706,7 @@
             "images": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1280x1920.jpg",
@@ -718,18 +718,18 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20relaxing%20by%20the%20beach.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20relaxing%20by%20the%20beach.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-sanaane-island-national-parc-200x112.jpg",
@@ -740,21 +740,21 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lake-view-in-the-evening.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lake-view-in-the-evening.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20lake%20view%20in%20the%20evening.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20lake%20view%20in%20the%20evening.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/preview-800x450.jpg",
                 "alt": "",
                 "title": "",
@@ -762,18 +762,18 @@
               },
               {
                 "tags": "Beautiful",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-bush.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-bush.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20bush.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20bush.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
@@ -784,18 +784,18 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-camping-tent.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-camping-tent.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20camping%20tent.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20camping%20tent.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
@@ -807,7 +807,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lake-sailboat.webp",
@@ -819,7 +819,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-locals-swimming.webp",
@@ -831,11 +831,11 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lodge-bedroom.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lodge-bedroom.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20lodge%20bedroom.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20lodge%20bedroom.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -843,7 +843,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-people-by-the-pool.webp",
@@ -855,7 +855,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-pool.webp",
@@ -867,11 +867,11 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20relaxing%20by%20the%20beach.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20relaxing%20by%20the%20beach.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -879,7 +879,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-sailboat-2.webp",
@@ -891,7 +891,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-sitting-with-the-locals.webp",
@@ -903,7 +903,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/bythelake-283x178.jpg",
@@ -915,7 +915,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-view.webp",
@@ -927,7 +927,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
@@ -939,7 +939,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/beachnight-225x225.jpg",
@@ -951,7 +951,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1286.jpg",
@@ -963,7 +963,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-agriculture.webp",
@@ -975,7 +975,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/campfire-259x194.jpg",
@@ -987,7 +987,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
@@ -999,11 +999,11 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-cafe-by-the-beach.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-cafe-by-the-beach.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20cafe%20by%20the%20beach.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20cafe%20by%20the%20beach.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1011,11 +1011,11 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-camping-tent.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-camping-tent.webp",
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20camping%20tent.webp",
+                "thumb": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20camping%20tent.webp",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1023,7 +1023,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-carrying-water.webp",
@@ -1035,7 +1035,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
@@ -1047,7 +1047,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mwanza-lake-view-farm-1920x1280-52-790x790.jpg",
@@ -1059,7 +1059,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/2022-12-30-790x790.jpg",
@@ -1071,7 +1071,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/2023-12-5-790x790.jpg",
@@ -1083,7 +1083,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/2024-12-1-790x790.jpg",
@@ -1095,10 +1095,10 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2025-01-11-1-790x790.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2025-01-11%20(1)-790x790.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2025-01-11-1-790x790-790x790.jpg",
                 "alt": "",
                 "title": "",
@@ -1107,10 +1107,10 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2025-01-11-2-790x790.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2025-01-11%20(2)-790x790.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2025-01-11-2-790x790-790x790.jpg",
                 "alt": "",
                 "title": "",
@@ -1119,7 +1119,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/2025-01-11-790x790.jpg",
@@ -1519,7 +1519,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1567,7 +1567,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1841,7 +1841,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lake-view-in-the-evening.webp",
+            "bgImage": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20lake%20view%20in%20the%20evening.webp",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1968,7 +1968,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-rubondo-island-national-parc-200x112.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-rubondo%20island%20national%20parc-200x112.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2049,7 +2049,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-boat-tours-on-lake-victoria-200x112.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-%20boat%20tours%20on%20lake%20victoria-200x112.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2060,7 +2060,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-city-tour-200x132.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-%20city-tour-200x132.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2071,7 +2071,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-7.-ukerewe-island-200x133.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-%207.%20ukerewe%20island-200x133.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2082,7 +2082,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-rock-paintings-200x200.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-rock%20paintings-200x200.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2311,7 +2311,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2425,7 +2425,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lake-view-in-the-evening.webp",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20lake%20view%20in%20the%20evening.webp",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -2500,7 +2500,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-cafe-by-the-beach.webp",
+              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge%20cafe%20by%20the%20beach.webp",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
