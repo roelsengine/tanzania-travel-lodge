@@ -4,8 +4,6 @@
 
 
 
-
-
 .subtitleFont {
   font-family: 'Lora', serif;
   font-style: normal;
@@ -574,12 +572,16 @@ section.form .container {
   font-size: 21px;
   font-family: 'Lora', serif;
 }
-#content7-3v .lead {
-  color: #ffffff;
-  font-family: 'Lora', serif;
+#msg-box2-3w .mbr-section-title {
+  color: #fff;
+  font-size: 32px;
 }
-#content7-3v .lead DIV {
-  font-family: 'Lora', serif;
+#msg-box2-3w .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box2-3w .btn {
+  font-size: 20px;
 }
 #content2-2p DIV {
   color: #efefef;
