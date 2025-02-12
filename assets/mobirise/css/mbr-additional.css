@@ -588,6 +588,19 @@ section.form .container {
   color: #a0a0a0;
   font-size: 30px;
 }
+#msg-box3-3s .mbr-section-title,
+#msg-box3-3s .lead {
+  color: #000;
+}
+#msg-box3-3s .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-3s .lead {
+  color: #ffffff;
+}
+#msg-box3-3s .lead P {
+  font-size: 20px;
+}
 #content1-3q P {
   text-align: center;
 }

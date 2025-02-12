@@ -31,7 +31,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 136,
+    "uniqCompNum": 137,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -541,6 +541,51 @@
           "_name": "form2",
           "_sourceTheme": "mobirise3",
           "_anchor": "form2-3a"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mwanza lake view farm",
+          "text": "<p>This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community. The lodge is committed to sustainability, providing its own food through on-site farming and harnessing solar power for energy needs.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box3-3s"
         },
         {
           "_params": {
@@ -1292,7 +1337,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "Follow us on social media for more beautiful pictures",
+          "text": "Follow us on social media for more beautiful pictures and offerings",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_sourceTheme": "mobirise3"
         },
@@ -1923,8 +1968,12 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
+              "src": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-.webp",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1932,8 +1981,7 @@
               "name": "chat",
               "family": "et-line",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "text1": "<strong>Address</strong><br> FPVV+P86, Victoria Lake Kabagombe (Chamabande, Kabagombe, Tanzania)",
@@ -2395,8 +2443,12 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
+              "src": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-.webp",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -2967,8 +3019,12 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
+              "src": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-.webp",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
