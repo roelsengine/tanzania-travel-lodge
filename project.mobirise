@@ -31,7 +31,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 138,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -169,10 +169,10 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": "7",
+            "timeout": "9",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -188,7 +188,7 @@
                 "alt": "tanzania-travel-lodge-bush"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -198,7 +198,7 @@
                 "showTitle": true,
                 "title": "Tanzania Mwanza lake view eco lodges",
                 "showText": true,
-                "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
+                "text": "This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community.&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
                 "alt": "tanzania-travel-lodge-bush"
@@ -214,7 +214,7 @@
                 "showTitle": true,
                 "title": "Tanzania Mwanza travel eco lodges",
                 "showText": true,
-                "text": "Mwanza lake view farm. Eco lodges from locals",
+                "text": "Eco lodges from locals.The lodge is committed to sustainability, providing its own food through on-site farming and harnessing solar power for energy needs.",
                 "showButtons": true,
                 "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">check availability</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Ask an expert</a> ",
                 "alt": "tanzania-travel-lodge"
@@ -325,7 +325,9 @@
               "color": "#ffffff"
             },
             ".lead P": {
-              "font-size": "20px"
+              "font-size": "21px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_params": {
@@ -554,8 +556,8 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -837,35 +839,51 @@
           "_anchor": "msg-box2-30"
         },
         {
+          "_inherit": "msg-box8",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, .lead": {
+              "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#efefef",
-              "font-size": "32px"
+              "color": "#ffffff"
             },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "22px",
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-size": "21px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Impressions of the lodge and the surroundings",
-          "meta": "Guests can enjoy a calm and relaxed atmosphere surrounded by nature, with opportunities to spot beautiful birds and occasionally even hippos. The lodge also features a swimming pool, making it a safe and peaceful place for visitors to unwind and connect with the natural environment.",
+          "text": "<p>Guests can enjoy a calm and relaxed atmosphere surrounded by nature, with opportunities to spot beautiful birds and occasionally even hippos. The lodge also features a swimming pool, making it a safe and peaceful place for visitors to unwind and connect with the natural environment.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-2y"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3t",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "gallery1",
