@@ -188,22 +188,6 @@
                 "alt": "tanzania-travel-lodge-bush"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Tanzania Mwanza travel eco lodges",
-                "showText": true,
-                "text": "Mwanza lake view farm. Eco lodges from locals",
-                "showButtons": true,
-                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">check availability</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Ask an expert</a> ",
-                "alt": "tanzania-travel-lodge"
-              },
-              {
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
                 "playVideo": false,
@@ -218,6 +202,22 @@
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
                 "alt": "tanzania-travel-lodge-bush"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Tanzania Mwanza travel eco lodges",
+                "showText": true,
+                "text": "Mwanza lake view farm. Eco lodges from locals",
+                "showButtons": true,
+                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">check availability</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Ask an expert</a> ",
+                "alt": "tanzania-travel-lodge"
               }
             ]
           },
