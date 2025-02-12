@@ -4,6 +4,8 @@
 
 
 
+
+
 .subtitleFont {
   font-family: 'Lora', serif;
   font-style: normal;
@@ -572,6 +574,13 @@ section.form .container {
   font-size: 21px;
   font-family: 'Lora', serif;
 }
+#content7-3v .lead {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#content7-3v .lead DIV {
+  font-family: 'Lora', serif;
+}
 #content2-2p DIV {
   color: #efefef;
   text-align: center;
@@ -603,18 +612,6 @@ section.form .container {
 #form2-3a .mbr-section-subtitle {
   color: #a0a0a0;
   font-size: 30px;
-}
-#content1-3q P {
-  text-align: center;
-}
-#content1-3q DIV {
-  color: #ffffff;
-  font-size: 32px;
-  font-family: 'Lora', serif;
-  text-align: center;
-}
-#content1-3q I {
-  font-size: 25px;
 }
 #header3-2z .mbr-section-title,
 #header3-2z .mbr-section-subtitle {
@@ -678,17 +675,6 @@ section.form .container {
 #social-buttons4-7 .mbr-section-title {
   font-size: 36px;
 }
-#msg-box2-3m .mbr-section-title {
-  color: #fff;
-  font-size: 32px;
-}
-#msg-box2-3m .mbr-section-subtitle {
-  color: #ffffff;
-  font-size: 21px;
-}
-#msg-box2-3m .btn {
-  font-size: 20px;
-}
 #header3-2x .mbr-section-title,
 #header3-2x .mbr-section-subtitle {
   text-align: center;
@@ -708,6 +694,29 @@ section.form .container {
 }
 #features3-2o P {
   color: #efefef;
+}
+#msg-box2-3m .mbr-section-title {
+  color: #fff;
+  font-size: 32px;
+}
+#msg-box2-3m .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 21px;
+}
+#msg-box2-3m .btn {
+  font-size: 20px;
+}
+#content1-3u P {
+  text-align: center;
+}
+#content1-3u DIV {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#content1-3u I {
+  font-size: 25px;
 }
 #header3-3r .mbr-section-title,
 #header3-3r .mbr-section-subtitle {

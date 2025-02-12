@@ -31,7 +31,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 138,
+    "uniqCompNum": 140,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -365,6 +365,33 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
+          "text1": "<p><span style=\"font-size: 1.07rem;\">An **eco-lodge** is a sustainable hotel or accommodation located in a natural environment, designed with respect for the environment. The goal of an eco-lodge is to combine tourism with nature conservation while minimizing ecological impact.</span><br></p><p>  \n</p><p><br></p><p>Characteristics of an eco-lodge:  \n</p><p>1. **Sustainably built** – Uses natural or recycled materials, such as wood, bamboo, or clay.  \n</p><p>2. **Eco-friendly energy use** – Often relies on solar or wind energy.  \n</p><p><span style=\"font-size: 1.07rem;\">&nbsp;&nbsp;</span><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text2": "3. **Water and waste management** – Includes rainwater collection, water conservation, and waste recycling.4. **Nature conservation** – The lodge is usually located in or near protected natural areas and contributes to the preservation of flora and fauna.\n<div>\n</div><div>5. **Local involvement** – Often incorporates local materials and products and involves the local community in its operations.\n</div><div>6. **Eco-tourism activities** – Includes hiking, wildlife safaris, kayaking, and cultural experiences that do not harm the environment.</div><div>\n</div>",
+          "text3": "Eco-lodges can be found all over the world, especially in tropical rainforests, mountain areas, and nature reserves. They offer travelers an authentic and environmentally conscious way to enjoy nature.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content7-3v",
+          "_styles": {
+            ".lead": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".lead DIV": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
           "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
           "_tags": [
             "Theme"
@@ -588,35 +615,6 @@
           "_name": "form2",
           "_sourceTheme": "mobirise3",
           "_anchor": "form2-3a"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#ff0097"
-          },
-          "text": "<i style=\"\">Are you looking for volunteering with our charity</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "font-size": "32px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            },
-            "I": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "content1-3q",
-          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -1367,50 +1365,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "21px"
-            },
-            ".btn": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ff0097",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "To book or plan your vacation",
-          "text": "Our experts can help you plan the once in a lifetime experience",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call our experts&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-3m",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
@@ -1561,6 +1515,79 @@
               "color": "#efefef"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-size": "21px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ff0097",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "To book or plan your vacation",
+          "text": "Our experts can help you plan the once in a lifetime experience",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call our experts&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3m",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ff0097"
+          },
+          "text": "<i style=\"\">Are you looking for volunteering with our charity</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            },
+            "I": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-3u",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
