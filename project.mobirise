@@ -31,7 +31,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 135,
+    "uniqCompNum": 136,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -1544,50 +1544,6 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "To book or plan your vacation",
-          "text": "Our experts can help you plan the once in a lifetime experience",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call our experts&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-31",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "21px"
-            },
-            ".btn": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#ff0097",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1609,42 +1565,27 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#000000"
           },
-          "title": "Top 12 activities is Mwanza",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See the top 12activities&nbsp;</a>",
+          "title": "Top 10 acivities Mwanza",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
+          "_name": "header3",
           "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box2-2f"
+          "_anchor": "header3-3r"
         },
         {
           "_inherit": "msg-box5",
