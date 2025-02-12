@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 
+
 .subtitleFont {
   font-family: 'Lora', serif;
   font-style: normal;
@@ -664,7 +665,8 @@ section.form .container {
 }
 #header3-2y .mbr-section-subtitle {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 22px;
+  font-family: 'Lora', serif;
 }
 #social-buttons4-7 .mbr-section-title,
 #social-buttons4-7 .btn-social {

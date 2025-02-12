@@ -847,7 +847,9 @@
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "22px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_params": {
