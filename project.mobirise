@@ -313,6 +313,51 @@
           "_sourceTheme": "mobirise3"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mwanza lake view farm",
+          "text": "<p>This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community. The lodge is committed to sustainability, providing its own food through on-site farming and harnessing solar power for energy needs.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box3-3s"
+        },
+        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -541,51 +586,6 @@
           "_name": "form2",
           "_sourceTheme": "mobirise3",
           "_anchor": "form2-3a"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Mwanza lake view farm",
-          "text": "<p>This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community. The lodge is committed to sustainability, providing its own food through on-site farming and harnessing solar power for energy needs.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box3-3s"
         },
         {
           "_params": {
