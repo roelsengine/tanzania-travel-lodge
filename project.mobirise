@@ -454,7 +454,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">book tent</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
