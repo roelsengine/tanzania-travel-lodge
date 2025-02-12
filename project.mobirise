@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "tanzania-travel-lodge",
+    "name": "tanzania-travel-lodge-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "fo9jmmyedy",
+    "mbrsiteDomain": "2wc0yezbq5",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -49,7 +49,8 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "chatbutton": {}
   },
   "pages": {
     "index.html": {
