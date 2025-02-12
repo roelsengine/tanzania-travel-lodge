@@ -844,16 +844,20 @@
             ".mbr-section-title": {
               "color": "#efefef",
               "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-size": "20px"
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
           "title": "Impressions of the lodge and the surroundings",
-          "meta": "",
+          "meta": "Guests can enjoy a calm and relaxed atmosphere surrounded by nature, with opportunities to spot beautiful birds and occasionally even hippos. The lodge also features a swimming pool, making it a safe and peaceful place for visitors to unwind and connect with the natural environment.",
           "_tags": [
             "Theme"
           ],
