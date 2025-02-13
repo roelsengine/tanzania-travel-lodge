@@ -240,48 +240,27 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "21px"
-            },
-            ".btn": {
-              "font-size": "20px"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ff0097",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
           },
-          "title": "To book or plan your vacation",
-          "text": "Our experts can help you plan the once in a lifetime experience",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call our experts&nbsp;</a>",
+          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-3p",
-          "_sourceTheme": "mobirise3"
+          "_name": "content2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content2-2p",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "21px"
+            }
+          }
         },
         {
           "_styles": {
@@ -406,29 +385,6 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-3w",
           "_sourceTheme": "mobirise3"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content2-2p",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef",
-              "text-align": "center"
-            },
-            "BLOCKQUOTE": {
-              "font-size": "21px"
-            }
-          }
         },
         {
           "_styles": {
