@@ -457,17 +457,6 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
-#msg-box2-3x .mbr-section-title {
-  color: #fff;
-  font-size: 32px;
-}
-#msg-box2-3x .mbr-section-subtitle {
-  color: #ffffff;
-  font-size: 21px;
-}
-#msg-box2-3x .btn {
-  font-size: 20px;
-}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -550,6 +539,17 @@ section.form .container {
 }
 #content2-2p BLOCKQUOTE {
   font-size: 21px;
+}
+#msg-box2-3x .mbr-section-title {
+  color: #fff;
+  font-size: 32px;
+}
+#msg-box2-3x .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 21px;
+}
+#msg-box2-3x .btn {
+  font-size: 20px;
 }
 #header3-f .mbr-section-title,
 #header3-f .mbr-section-subtitle {
