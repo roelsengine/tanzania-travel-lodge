@@ -652,6 +652,12 @@ section.form .container {
   font-size: 24px;
   text-align: center;
 }
+#pricing-table1-4u .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-4u .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #msg-box2-30 .mbr-section-title {
   color: #fff;
   font-size: 32px;
@@ -768,6 +774,71 @@ section.form .container {
 }
 #form1-x .form-control-label {
   color: #232323;
+}
+#ext_menu-4t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4t .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-4t .hamburger-icon {
+  height: .1px !important;
+  background-color: #fff !important;
+}
+#ext_menu-4t .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-4t .close-icon::before,
+#ext_menu-4t .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-4t .link,
+#ext_menu-4t .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-4t .link {
+  font-size: 0.8rem;
+}
+#ext_menu-4t .dropdown-item,
+#ext_menu-4t .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-4t .link:hover,
+#ext_menu-4t .dropdown-item:hover,
+#ext_menu-4t .link:focus,
+#ext_menu-4t .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-4t .link[aria-expanded="true"],
+#ext_menu-4t .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-4t .nav-dropdown-sm .link:focus,
+#ext_menu-4t .nav-dropdown-sm .link:hover,
+#ext_menu-4t .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-4t .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-4t .navbar,
+#ext_menu-4t .nav-dropdown-sm,
+#ext_menu-4t .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-4t .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-4t .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-4t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-4t .bg-color.transparent.opened .link:hover,
+#ext_menu-4t .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-4t .link[aria-expanded="true"],
+#ext_menu-4t .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
 }
 #msg-box8-1t .mbr-section-title,
 #msg-box8-1t .lead {
@@ -890,6 +961,8 @@ section.form .container {
   background-color: #ffffff;
   border-color: #ffffff;
 }
+
+
 #ext_menu-4t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -955,8 +1028,6 @@ section.form .container {
 #ext_menu-4t .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-
-
 #slider-40 P {
   font-size: 24px;
   color: #ffffff;
@@ -1205,69 +1276,4 @@ section.form .container {
 }
 #form1-4p .form-control-label {
   color: #232323;
-}
-#ext_menu-4t .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-4t .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-4t .hamburger-icon {
-  height: .1px !important;
-  background-color: #fff !important;
-}
-#ext_menu-4t .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-4t .close-icon::before,
-#ext_menu-4t .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-4t .link,
-#ext_menu-4t .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-4t .link {
-  font-size: 0.8rem;
-}
-#ext_menu-4t .dropdown-item,
-#ext_menu-4t .nav-dropdown-sm .link {
-  font-size: 0.866rem;
-}
-#ext_menu-4t .link:hover,
-#ext_menu-4t .dropdown-item:hover,
-#ext_menu-4t .link:focus,
-#ext_menu-4t .dropdown-item:focus {
-  color: #ffffff;
-}
-#ext_menu-4t .link[aria-expanded="true"],
-#ext_menu-4t .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-4t .nav-dropdown-sm .link:focus,
-#ext_menu-4t .nav-dropdown-sm .link:hover,
-#ext_menu-4t .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-4t .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-4t .navbar,
-#ext_menu-4t .nav-dropdown-sm,
-#ext_menu-4t .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-4t .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-4t .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-4t .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-4t .bg-color.transparent.opened .link:hover,
-#ext_menu-4t .bg-color.transparent.opened .link:focus {
-  color: #ffffff;
-}
-#ext_menu-4t .link[aria-expanded="true"],
-#ext_menu-4t .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
 }
