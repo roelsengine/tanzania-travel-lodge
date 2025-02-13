@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
 
 
 .subtitleFont {
@@ -457,15 +455,13 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
-#menu-4s .hide-buttons .nav-btn {
+#ext_menu-4t .hide-buttons .nav-btn {
   display: none !important;
 }
-#menu-4s .navbar-caption {
+#ext_menu-4t .navbar-caption {
   color: #ffffff;
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
 }
-#menu-4s .hamburger-icon {
+#ext_menu-4t .hamburger-icon {
   height: .1px !important;
   background-color: #fff !important;
 }
@@ -736,6 +732,16 @@ section.form .container {
   text-align: center;
   color: #cccccc;
 }
+#ext_menu-4t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4t .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-4t .hamburger-icon {
+  height: .1px !important;
+  background-color: #fff !important;
+}
 #msg-box8-23 .mbr-section-title,
 #msg-box8-23 .lead {
   color: #fff;
@@ -773,6 +779,16 @@ section.form .container {
 #features7-2e .iconbox {
   background-color: #ffffff;
   border-color: #ffffff;
+}
+#ext_menu-4t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4t .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-4t .hamburger-icon {
+  height: .1px !important;
+  background-color: #fff !important;
 }
 
 
@@ -1024,4 +1040,14 @@ section.form .container {
 }
 #form1-4p .form-control-label {
   color: #232323;
+}
+#ext_menu-4t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4t .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-4t .hamburger-icon {
+  height: .1px !important;
+  background-color: #fff !important;
 }
