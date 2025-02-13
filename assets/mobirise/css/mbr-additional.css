@@ -533,13 +533,6 @@ section.form .container {
 #slider-e .btn {
   font-size: 24px;
 }
-#content2-2p DIV {
-  color: #efefef;
-  text-align: center;
-}
-#content2-2p BLOCKQUOTE {
-  font-size: 21px;
-}
 #msg-box2-3x .mbr-section-title {
   color: #fff;
   font-size: 32px;
@@ -584,8 +577,15 @@ section.form .container {
   font-family: 'Lora', serif;
   text-align: center;
 }
+#content2-2p DIV {
+  color: #efefef;
+  text-align: center;
+}
+#content2-2p BLOCKQUOTE {
+  font-size: 21px;
+}
 #msg-box2-3w .mbr-section-title {
-  color: #fff;
+  color: #efefef;
   font-size: 32px;
 }
 #msg-box2-3w .mbr-section-subtitle {
@@ -667,6 +667,7 @@ section.form .container {
 }
 #msg-box3-3t .mbr-section-title {
   color: #ffffff;
+  font-size: 32px;
 }
 #msg-box3-3t .lead {
   color: #ffffff;

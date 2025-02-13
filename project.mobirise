@@ -240,29 +240,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content2-2p",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef",
-              "text-align": "center"
-            },
-            "BLOCKQUOTE": {
-              "font-size": "21px"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
@@ -390,9 +367,32 @@
           "_anchor": "msg-box3-3s"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content2-2p",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "21px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
+              "color": "#efefef",
               "font-size": "32px"
             },
             ".mbr-section-subtitle": {
@@ -414,7 +414,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#7c706b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -450,7 +450,7 @@
             "bgColor": "#000000"
           },
           "title": "Accomodations",
-          "meta": "Safari tent, lodge3, small lodges, camping , campers",
+          "meta": "Safari tent, lodge3, small lodges, camping , campers, glamping",
           "_tags": [
             "Theme"
           ],
@@ -867,7 +867,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px"
             },
             ".lead": {
               "color": "#ffffff"
