@@ -540,6 +540,17 @@ section.form .container {
 #content2-2p BLOCKQUOTE {
   font-size: 21px;
 }
+#msg-box2-3x .mbr-section-title {
+  color: #fff;
+  font-size: 32px;
+}
+#msg-box2-3x .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 21px;
+}
+#msg-box2-3x .btn {
+  font-size: 20px;
+}
 #header3-f .mbr-section-title,
 #header3-f .mbr-section-subtitle {
   text-align: center;
@@ -562,6 +573,8 @@ section.form .container {
 }
 #msg-box3-3s .mbr-section-title {
   color: #ffffff;
+  font-size: 32px;
+  text-align: center;
 }
 #msg-box3-3s .lead {
   color: #ffffff;
@@ -569,6 +582,7 @@ section.form .container {
 #msg-box3-3s .lead P {
   font-size: 21px;
   font-family: 'Lora', serif;
+  text-align: center;
 }
 #msg-box2-3w .mbr-section-title {
   color: #fff;
