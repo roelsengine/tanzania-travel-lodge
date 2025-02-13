@@ -141,7 +141,7 @@
                 "showText": true,
                 "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box3-3s\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-2g\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
                 "alt": "tanzania-travel-lodge-bush"
               },
               {
@@ -290,6 +290,29 @@
           "_anchor": "msg-box3-3s"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content2-2p",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "21px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#efefef",
@@ -332,29 +355,6 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-3w",
           "_sourceTheme": "mobirise3"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content2-2p",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef",
-              "text-align": "center"
-            },
-            "BLOCKQUOTE": {
-              "font-size": "21px"
-            }
-          }
         },
         {
           "_styles": {
