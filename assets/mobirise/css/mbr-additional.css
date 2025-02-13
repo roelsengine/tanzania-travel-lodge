@@ -478,22 +478,6 @@ section.form .container {
 #msg-box2-3x .btn {
   font-size: 20px;
 }
-#header3-f .mbr-section-title,
-#header3-f .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-f H3 {
-  font-size: 30px;
-  color: #fac51c;
-  text-align: right;
-}
-#header3-f SMALL {
-  color: #f3c649;
-}
-#header3-f .mbr-section-title {
-  color: #efefef;
-  font-size: 23px;
-}
 #msg-box3-3s .mbr-section-title,
 #msg-box3-3s .lead {
   color: #000;
@@ -540,6 +524,22 @@ section.form .container {
 #header3-2g .mbr-section-subtitle {
   color: #ffffff;
   font-size: 21px;
+}
+#header3-f .mbr-section-title,
+#header3-f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-f H3 {
+  font-size: 30px;
+  color: #fac51c;
+  text-align: right;
+}
+#header3-f SMALL {
+  color: #f3c649;
+}
+#header3-f .mbr-section-title {
+  color: #efefef;
+  font-size: 23px;
 }
 #features3-i H5 {
   color: #efefef;
