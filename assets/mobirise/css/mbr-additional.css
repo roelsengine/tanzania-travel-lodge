@@ -1,4 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 .subtitleFont {
@@ -460,6 +462,8 @@ section.form .container {
 }
 #menu-4s .navbar-caption {
   color: #ffffff;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-4s .hamburger-icon {
   height: .1px !important;
