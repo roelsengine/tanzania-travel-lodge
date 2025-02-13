@@ -291,6 +291,39 @@
           "_anchor": "msg-box3-3s"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px",
+              "color": "#fac51c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "23px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-f",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#000000"
+          },
+          "title": "Top rated on tripadvisor 5.0 star rating",
+          "meta": "google trustpilot reviews",
+          "_sourceTheme": "mobirise3"
+        },
+        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -385,39 +418,6 @@
           "_name": "header3",
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-2g"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "30px",
-              "color": "#fac51c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "color": "#f3c649"
-            },
-            ".mbr-section-title": {
-              "color": "#efefef",
-              "font-size": "23px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-f",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#000000"
-          },
-          "title": "Top rated on tripadvisor 5.0 star rating",
-          "meta": "google trustpilot reviews",
-          "_sourceTheme": "mobirise3"
         },
         {
           "_tags": [

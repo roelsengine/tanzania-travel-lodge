@@ -504,6 +504,22 @@ section.form .container {
   font-family: 'Lora', serif;
   text-align: center;
 }
+#header3-f .mbr-section-title,
+#header3-f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-f H3 {
+  font-size: 30px;
+  color: #fac51c;
+  text-align: right;
+}
+#header3-f SMALL {
+  color: #f3c649;
+}
+#header3-f .mbr-section-title {
+  color: #efefef;
+  font-size: 23px;
+}
 #content2-2p DIV {
   color: #efefef;
   text-align: center;
@@ -533,22 +549,6 @@ section.form .container {
 #header3-2g .mbr-section-subtitle {
   color: #ffffff;
   font-size: 21px;
-}
-#header3-f .mbr-section-title,
-#header3-f .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-f H3 {
-  font-size: 30px;
-  color: #fac51c;
-  text-align: right;
-}
-#header3-f SMALL {
-  color: #f3c649;
-}
-#header3-f .mbr-section-title {
-  color: #efefef;
-  font-size: 23px;
 }
 #features3-i H5 {
   color: #efefef;
