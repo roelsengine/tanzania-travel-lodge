@@ -575,13 +575,6 @@ section.form .container {
   color: #efefef;
   font-size: 23px;
 }
-#content2-2p DIV {
-  color: #efefef;
-  text-align: center;
-}
-#content2-2p BLOCKQUOTE {
-  font-size: 21px;
-}
 #msg-box2-3w .mbr-section-title {
   color: #efefef;
   font-size: 32px;
@@ -603,6 +596,13 @@ section.form .container {
 }
 #header3-2g .mbr-section-subtitle {
   color: #ffffff;
+  font-size: 21px;
+}
+#content2-2p DIV {
+  color: #efefef;
+  text-align: center;
+}
+#content2-2p BLOCKQUOTE {
   font-size: 21px;
 }
 #features3-i H5 {

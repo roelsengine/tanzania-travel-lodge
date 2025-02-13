@@ -364,29 +364,6 @@
           "_sourceTheme": "mobirise3"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content2-2p",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef",
-              "text-align": "center"
-            },
-            "BLOCKQUOTE": {
-              "font-size": "21px"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#efefef",
@@ -458,6 +435,29 @@
           "_name": "header3",
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-2g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote>Whether you’re exploring the cultural richness around Mwanza, venturing on a safari in the Serengeti, or soaking up the sun in Zanzibar, Tanzania offers something truly special for every traveler. Plan your adventure today and make memories that will last a lifetime</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content2-2p",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "21px"
+            }
+          }
         },
         {
           "_tags": [
