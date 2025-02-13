@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
-
 .subtitleFont {
   font-family: 'Lora', serif;
   font-style: normal;
@@ -456,15 +455,6 @@ section.form .container {
   display: flex;
   flex-wrap: wrap;
   margin: 0 -15px;
-}
-#content1-3y P {
-  text-align: center;
-}
-#content1-3y DIV {
-  color: #ffffff;
-  font-size: 32px;
-  font-family: 'Lora', serif;
-  text-align: center;
 }
 #slider-e P {
   font-size: 24px;
