@@ -502,7 +502,7 @@
           "title1": "3 Safari tents",
           "subtitle1": "voorbeeld project",
           "caption1": "private bathroom<br>50.- for each person per night, including breakfast, lunch and diner.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Book tent now</a>  ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Book safari tent now</a>  ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lodge-bedroom.webp",
@@ -550,7 +550,7 @@
           "title4": "camping camper&nbsp;&nbsp;",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Available with shower 15,-&nbsp;for each tent per night",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">book tent</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">book camper</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1-600x354.png",
@@ -565,7 +565,7 @@
           "title5": "camping tents",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Bagpackers delight Available with shower 15,- for each tent per night",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">book tent</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x442.png",
@@ -620,8 +620,8 @@
             "overlayOpacity": 0.5
           },
           "title": "Opening 2025\n<div>Serengeti Glamping. \n</div><div>Opposite Mdabaka gate</div>",
-          "subtitle": "New luxuary safari tents, subscribe for an update",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get an update</a>",
+          "subtitle": "<br>New luxuary safari tents, subscribe for an update",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get an update</a>",
           "form": {
             "action": "papercliq@outlook.com",
             "alerts": {
