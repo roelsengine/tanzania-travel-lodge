@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tanzania-travel-lodge-clone",
-    "currentPage": "page4.html",
+    "currentPage": "tanzania-travel-lodge-wordpress.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,13 +25,14 @@
         "#000e36",
         "#ff0097",
         "#cff349",
-        "#d0f939"
+        "#d0f939",
+        "#37302d"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 205,
+    "uniqCompNum": 206,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -73,7 +74,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#37302d",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2109,7 +2110,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#37302d",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2540,7 +2541,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#37302d",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3074,7 +3075,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#37302d",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -5020,10 +5021,10 @@
         }
       ]
     },
-    "page4.html": {
+    "tanzania-travel-lodge-wordpress.html": {
       "settings": {
         "title": "tanzania-travel-lodge-wordpress",
-        "meta_descr": "tanzania-travel-lodge",
+        "meta_descr": "tanzania-travel-lodge demo wordpress",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -5040,7 +5041,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
+            "bgColor": "#37302d",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -5080,13 +5081,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#1b1816"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2f2926!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#37302d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -5145,7 +5146,7 @@
                 "overlayOpacity": "0.5",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "The Tanz<br>ania Serengeti safari",
+                "title": "Wordpress demo",
                 "showText": true,
                 "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
                 "showButtons": true,
@@ -5223,6 +5224,45 @@
           "text": "Copyright (c) 2025 rOels.engine",
           "_sourceTheme": "mobirise3",
           "_anchor": "footer1-5o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Bottom bar",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See the top 12activities&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-5p",
+          "_sourceTheme": "mobirise3"
         }
       ]
     }
