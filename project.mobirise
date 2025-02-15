@@ -33,7 +33,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 208,
+    "uniqCompNum": 209,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -3252,6 +3252,71 @@
           "_anchor": "slider-40"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ff0097"
+          },
+          "text": "<i style=\"\">Are you looking for volunteering with us,&nbsp;</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-5s",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px",
+              "color": "#fac51c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "23px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle I": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#a38f84"
+          },
+          "title": "Experience Tanzania with the real locals",
+          "meta": "<i>This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community.</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5r",
+          "_sourceTheme": "mobirise3"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -3321,7 +3386,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "To book or plan your vacation",
+          "title": "To personalize your experience book or plan your vacation with us.",
           "text": "Our experts can help you plan the once in a lifetime experience",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call our experts&nbsp;</a>",
           "_tags": [
@@ -3330,42 +3395,6 @@
           "_name": "msg-box2",
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box2-41"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "30px",
-              "color": "#fac51c",
-              "text-align": "right"
-            },
-            "SMALL": {
-              "color": "#f3c649"
-            },
-            ".mbr-section-title": {
-              "color": "#efefef",
-              "font-size": "23px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#a38f84"
-          },
-          "title": "Experience Tanzania with the real locals",
-          "meta": "This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5r",
-          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "msg-box8",
