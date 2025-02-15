@@ -3229,7 +3229,7 @@
                 "showText": true,
                 "text": "Eco lodges from locals.The lodge is committed to sustainability, providing its own food through on-site farming and harnessing solar power for energy needs.",
                 "showButtons": true,
-                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Book : Lodges, campers, safaritent, tents, camping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">check availability</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">The serengeti season</a> ",
+                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Book : Lodges, campers, safaritent, tents, camping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Personalize your stay</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">The serengeti season</a> ",
                 "alt": "tanzania-travel-lodge"
               }
             ]
