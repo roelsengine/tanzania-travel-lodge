@@ -3239,7 +3239,7 @@
           "_styles": {
             "P": {
               "font-size": "24px",
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             "H2": {
               "font-size": "36px",
