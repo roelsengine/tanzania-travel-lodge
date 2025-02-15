@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tanzania-travel-lodge-clone",
-    "currentPage": "tanzania-travel-lodge-wordpress.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 206,
+    "uniqCompNum": 207,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -114,13 +114,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#1b1816"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2f2926!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#37302d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -134,6 +134,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "14px"
             }
           },
           "logo": {
@@ -2150,13 +2153,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#1b1816"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2f2926!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#37302d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2170,6 +2173,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "14px"
             }
           },
           "logo": {
@@ -2581,13 +2587,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#1b1816"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2f2926!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#37302d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2601,6 +2607,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "14px"
             }
           },
           "logo": {
@@ -3115,13 +3124,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#1b1816"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2f2926!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#37302d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3135,6 +3144,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "14px"
             }
           },
           "logo": {
@@ -3237,6 +3249,42 @@
             }
           },
           "_anchor": "slider-40"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px",
+              "color": "#fac51c",
+              "text-align": "right"
+            },
+            "SMALL": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "23px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#a38f84"
+          },
+          "title": "Serengeti season \"the crossover\"",
+          "meta": "book now for ----",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5q",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -5101,6 +5149,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "14px"
             }
           },
           "logo": {
