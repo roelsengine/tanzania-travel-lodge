@@ -26,7 +26,8 @@
         "#ff0097",
         "#cff349",
         "#d0f939",
-        "#37302d"
+        "#37302d",
+        "#373230"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-_1.webp",
@@ -74,7 +75,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#37302d",
+            "bgColor": "#373230",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -114,13 +115,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b1816"
+              "background": "#1c1918"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f2926!important"
+              "background": "#2f2b29!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#37302d"
+              "background": "#373230"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2113,7 +2114,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#37302d",
+            "bgColor": "#373230",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2153,13 +2154,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b1816"
+              "background": "#1c1918"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f2926!important"
+              "background": "#2f2b29!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#37302d"
+              "background": "#373230"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2547,7 +2548,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#37302d",
+            "bgColor": "#373230",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2587,13 +2588,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b1816"
+              "background": "#1c1918"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f2926!important"
+              "background": "#2f2b29!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#37302d"
+              "background": "#373230"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3084,7 +3085,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#37302d",
+            "bgColor": "#373230",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3124,13 +3125,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b1816"
+              "background": "#1c1918"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f2926!important"
+              "background": "#2f2b29!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#37302d"
+              "background": "#373230"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -5089,7 +5090,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#37302d",
+            "bgColor": "#373230",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -5129,13 +5130,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b1816"
+              "background": "#1c1918"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f2926!important"
+              "background": "#2f2b29!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#37302d"
+              "background": "#373230"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
