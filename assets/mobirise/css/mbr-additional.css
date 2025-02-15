@@ -1061,6 +1061,17 @@ section.form .container {
   font-family: 'Lora', serif;
   text-align: center;
 }
+#msg-box2-43 .mbr-section-title {
+  color: #efefef;
+  font-size: 32px;
+}
+#msg-box2-43 .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box2-43 .btn {
+  font-size: 20px;
+}
 #header3-5r .mbr-section-title,
 #header3-5r .mbr-section-subtitle {
   text-align: center;
@@ -1129,17 +1140,6 @@ section.form .container {
   font-size: 21px;
   font-family: 'Lora', serif;
   text-align: center;
-}
-#msg-box2-43 .mbr-section-title {
-  color: #efefef;
-  font-size: 32px;
-}
-#msg-box2-43 .mbr-section-subtitle {
-  color: #ffffff;
-  font-size: 20px;
-}
-#msg-box2-43 .btn {
-  font-size: 20px;
 }
 #content2-44 DIV {
   color: #efefef;
