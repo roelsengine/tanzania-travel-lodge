@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tanzania-travel-lodge-clone",
-    "currentPage": "page3.html",
+    "currentPage": "tanzania-travel-lodge-wordpress.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -155,7 +155,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index-new.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
           "_name": "ext.menu",
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-4t"
@@ -2194,7 +2194,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index-new.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
           "_name": "ext.menu",
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-4t"
@@ -2628,7 +2628,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index-new.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
           "_name": "ext.menu",
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-4t"
@@ -3065,10 +3065,258 @@
         }
       ]
     },
-    "page3.html": {
+    "tanzania-travel-lodge-wordpress.html": {
+      "settings": {
+        "title": "tanzania-travel-lodge-wordpress",
+        "meta_descr": "tanzania-travel-lodge demo wordpress",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1920.png",
+        "order": "1"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#373230",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"accommodation.html\">MWANZA LAKE VIEW FARM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">TRIPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#msg-box3-3i\">CHARITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"tanzania-travel-lodge-wordpress.html\">wp</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://wa.me/31620592212\">CALL US&nbsp;&nbsp;<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".hamburger-icon": {
+              "height": ".1px !important",
+              "background-color": "#fff !important"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1c1918"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2f2b29!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#373230"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-.webp",
+              "height": 128,
+              "alt": "mwanza lake view farm",
+              "link": "index.html",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index-new.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
+          "_name": "ext.menu",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "ext_menu-4v"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "9",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Wordpress demo",
+                "showText": true,
+                "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-2g\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
+                "alt": "tanzania-travel-lodge-bush"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Tanzania Mwanza lake view eco lodges",
+                "showText": true,
+                "text": "This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community.&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
+                "alt": "tanzania-travel-lodge-bush"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Tanzania Mwanza travel eco lodges",
+                "showText": true,
+                "text": "Eco lodges from locals.The lodge is committed to sustainability, providing its own food through on-site farming and harnessing solar power for energy needs.",
+                "showButtons": true,
+                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">check availability</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Ask an expert</a> ",
+                "alt": "tanzania-travel-lodge"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_sourceTheme": "mobirise3",
+          "_styles": {
+            "P": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            },
+            "H2": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "slider-4w"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2025 rOels.engine",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "footer1-5o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Bottom bar",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See the top 12activities&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-5p",
+          "_sourceTheme": "mobirise3"
+        }
+      ]
+    },
+    "index-new.html": {
       "settings": {
         "title": "tanzania-mwanza-lake-view-farm",
-        "meta_descr": "tanzania-travel-lodge",
+        "meta_descr": "tanzania-travel-lodge development page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3165,7 +3413,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index-new.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
           "_name": "ext.menu",
           "_sourceTheme": "mobirise3",
           "_anchor": "ext_menu-4t"
@@ -5135,254 +5383,6 @@
           "text": "Copyright (c) 2025 rOels.engine",
           "_sourceTheme": "mobirise3",
           "_anchor": "footer1-4r"
-        }
-      ]
-    },
-    "tanzania-travel-lodge-wordpress.html": {
-      "settings": {
-        "title": "tanzania-travel-lodge-wordpress",
-        "meta_descr": "tanzania-travel-lodge demo wordpress",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1920.png",
-        "order": "1"
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#373230",
-            "fontSize": "0.8",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"accommodation.html\">MWANZA LAKE VIEW FARM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">TRIPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#msg-box3-3i\">CHARITY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"tanzania-travel-lodge-wordpress.html\">wp</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://wa.me/31620592212\">CALL US&nbsp;&nbsp;<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".hamburger-icon": {
-              "height": ".1px !important",
-              "background-color": "#fff !important"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c1918"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f2b29!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#373230"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            },
-            "A": {
-              "font-size": "14px"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icon-tanzania-travel-lodge-.webp",
-              "height": 128,
-              "alt": "mwanza lake view farm",
-              "link": "index.html",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tanzania travel lodge</a>",
-          "_name": "ext.menu",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "ext_menu-4v"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": "9",
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.5",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Wordpress demo",
-                "showText": true,
-                "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-2g\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
-                "alt": "tanzania-travel-lodge-bush"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.2",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Tanzania Mwanza lake view eco lodges",
-                "showText": true,
-                "text": "This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community.&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">See accomodation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">see activities</a>  ",
-                "alt": "tanzania-travel-lodge-bush"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-relaxing-by-the-beach.webp",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Tanzania Mwanza travel eco lodges",
-                "showText": true,
-                "text": "Eco lodges from locals.The lodge is committed to sustainability, providing its own food through on-site farming and harnessing solar power for energy needs.",
-                "showButtons": true,
-                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">check availability</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Ask an expert</a> ",
-                "alt": "tanzania-travel-lodge"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_sourceTheme": "mobirise3",
-          "_styles": {
-            "P": {
-              "font-size": "24px",
-              "color": "#ffffff"
-            },
-            "H2": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "slider-4w"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2025 rOels.engine",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "footer1-5o"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Bottom bar",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See the top 12activities&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-5p",
-          "_sourceTheme": "mobirise3"
         }
       ]
     }
