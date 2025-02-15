@@ -1081,6 +1081,25 @@ section.form .container {
 #msg-box2-41 .btn {
   font-size: 20px;
 }
+#header3-5r .mbr-section-title,
+#header3-5r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5r H3 {
+  font-size: 30px;
+  color: #fac51c;
+  text-align: right;
+}
+#header3-5r SMALL {
+  color: #f3c649;
+}
+#header3-5r .mbr-section-title {
+  color: #efefef;
+  font-size: 23px;
+}
+#header3-5r .mbr-section-subtitle {
+  color: #ffffff;
+}
 #msg-box3-42 .mbr-section-title,
 #msg-box3-42 .lead {
   color: #000;
