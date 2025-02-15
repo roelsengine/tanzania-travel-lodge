@@ -1069,30 +1069,10 @@ section.form .container {
   font-size: 23px;
 }
 #header3-5r .mbr-section-subtitle {
-  color: #ffffff;
+  color: #373230;
 }
 #header3-5r .mbr-section-subtitle I {
   font-size: 22px;
-}
-#content1-5s P {
-  text-align: center;
-}
-#content1-5s DIV {
-  color: #ffffff;
-  font-size: 32px;
-  font-family: 'Lora', serif;
-  text-align: center;
-}
-#msg-box2-43 .mbr-section-title {
-  color: #efefef;
-  font-size: 32px;
-}
-#msg-box2-43 .mbr-section-subtitle {
-  color: #ffffff;
-  font-size: 20px;
-}
-#msg-box2-43 .btn {
-  font-size: 20px;
 }
 #header3-5q .mbr-section-title,
 #header3-5q .mbr-section-subtitle {
@@ -1112,6 +1092,29 @@ section.form .container {
 }
 #header3-5q .mbr-section-subtitle {
   color: #ffffff;
+}
+#content1-5s P {
+  text-align: center;
+}
+#content1-5s DIV {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#content1-5s I {
+  font-size: 24px;
+}
+#msg-box2-43 .mbr-section-title {
+  color: #efefef;
+  font-size: 32px;
+}
+#msg-box2-43 .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box2-43 .btn {
+  font-size: 20px;
 }
 #msg-box2-41 .mbr-section-title {
   color: #fff;
