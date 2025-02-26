@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tanzania-travel-lodge-clone",
-    "currentPage": "tanzania-travel-lodge-wordpress.html",
+    "currentPage": "index-new.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3446,7 +3446,7 @@
                 "showText": true,
                 "text": "Mwanza Lake View Farm has lodges and safari tents on the beach with beautiful views over Lake Victoria and Saa Nane National Park.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">Book : Lodges, campers, safaritent, tents, camping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Cultural activities</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">The serengeti seasons</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">Book : Lodges, campers, safaritent, tents, camping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Cultural activities, learn how life is in Tanzania</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">The serengeti seasons, book an safari</a>  ",
                 "alt": "tanzania-travel-lodge-bush"
               },
               {
@@ -3462,7 +3462,7 @@
                 "showText": true,
                 "text": "This serene retreat is run by local residents and is designed as a social enterprise, meaning that all profits generated are reinvested back into the community.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">Book : Lodges, campers, safaritent, tents, camping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Cultural activities</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">The serengeti seasons</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#gallery4-5\" data-toolbar=\"-mbrBtnMove\">Book : Lodges, campers, safaritent, tents, camping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Cultural activities, learn how life is in Tanzania</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-l\" data-toolbar=\"-mbrBtnMove\">The serengeti seasons, book an safari</a>  ",
                 "alt": "tanzania-travel-lodge-bush"
               },
               {
@@ -3478,7 +3478,7 @@
                 "showText": true,
                 "text": "Eco lodges from locals.The lodge is committed to sustainability, providing its own food through on-site farming and harnessing solar power for energy needs.",
                 "showButtons": true,
-                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Book : Lodges, campers, safaritent, tents, camping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Personalize your stay for a wedding or..</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">The serengeti crossing season is soon</a> ",
+                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Book : Lodges, campers, safaritent, tents, camping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Personalize your stay for a wedding or..</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-u\" data-toolbar=\"-mbrBtnMove\">Relax some time in Zanzibar</a> ",
                 "alt": "tanzania-travel-lodge"
               }
             ]
@@ -4010,226 +4010,6 @@
           "_anchor": "form2-48"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff",
-              "font-size": "30px"
-            },
-            "SMALL": {
-              "color": "#f3c649"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#020010"
-          },
-          "title": "Aminities",
-          "meta": "services available",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-49"
-        },
-        {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#7c706b",
-              "border-color": "#7c706b"
-            },
-            "H4": {
-              "color": "#efefef",
-              "font-size": "24px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "font-size": "24px",
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "iconsBgColor": "#7c706b",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "success",
-              "family": "Mobirise2",
-              "active": true,
-              "link": "",
-              "size": "",
-              "color": "black"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "success",
-              "family": "Mobirise2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "success",
-              "family": "Mobirise2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "success",
-              "family": "Mobirise2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "arrow-down",
-              "family": "Mobirise2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "arrow-down",
-              "family": "Mobirise2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black"
-            }
-          },
-          "title1": "Wifi (extra GB for a fee)<br>locale guide",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Restaurant, full board, excluding drinks.<br><div>pool</div><br><div><br></div>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Spacious rooms <br>Comfortable bed\n<div>Ensuite bathroom</div>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "with shower and toilet\n<div>Mosquito net</div><br><div>\n</div><div>locale guide</div>",
-          "subtitle4": "<div>&nbsp;you the freedom to develop</div>",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<div><span style=\"background-color: initial;\">Laundry service,</span><br></div><div>cleaning service, car service with driver</div><div>\n</div>",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Lounge bar<br>Lake view\n<div>\n</div><div>Porch</div><div>\n</div><div>bar</div><div>Beach chairs\n</div><div>Parasols</div><div>boat service</div>",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "features4-4a"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "21px"
-            },
-            ".btn": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ff0097",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "To book or plan your vacation",
-          "text": "Our experts can help you plan the once in a lifetime experience",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call our experts&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box2-4b"
-        },
-        {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -4727,6 +4507,228 @@
           "_anchor": "gallery3-4d"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            "SMALL": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#020010"
+          },
+          "title": "Aminities",
+          "meta": "services available",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-49"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#fac51c",
+              "border-color": "#fac51c"
+            },
+            "H4": {
+              "color": "#efefef",
+              "font-size": "22px",
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "DIV": {
+              "font-size": "22px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#fac51c",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "",
+              "size": "",
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title1": "Wifi (extra GB for a fee)<br><br>locale guide",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Restaurant, <br><br>full board, excluding drinks.<br><div><br></div><br><div>pool</div><br><div><br></div>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Spacious rooms<br> <br>Comfortable bed\n<div><br></div><br><div>Ensuite bathroom</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "with shower and toilet<br><br>\n<div>Mosquito net</div><br><div>\n</div><div>locale guide</div>",
+          "subtitle4": "<div>&nbsp;you the freedom to develop</div>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "<div><span style=\"background-color: initial;\">Laundry service,</span><br></div><div><br></div><br><div>cleaning service</div><br><div>car service with driver</div><div>\n</div>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Lounge bar<br>Lake view\n<div>\n</div><div>Porch</div><div>\n</div><div><br></div><br><div>bar</div><div><br></div><br><div>Beach chairs\n</div><div>Parasols</div><div>boat service</div>",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features4-4a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-size": "21px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ff0097",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "To book or plan your vacation",
+          "text": "Our experts can help you plan the once in a lifetime experience",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call our experts&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box2-4b"
+        },
+        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -4955,322 +4957,6 @@
           "_anchor": "msg-box2-4h"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "title": "Top 10 acivities Mwanza",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-4i"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            "h3, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "37",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tanzania-travel-lodge-lake-view-in-the-evening.webp",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Mwanza",
-          "text": "Mwanza, ook wel bekend als de “Rock City,” is een prachtige regio in Tanzania, gelegen aan de zuidelijke oever van het Victoriameer. Hier zijn enkele highlights van Mwanza:<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box7-4j"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            "h3, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "37",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tanzania-mwanza-top10-bismarckrock-1-200x133.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "1. Bismarck Rock",
-          "text": "<br>Een iconisch symbool van Mwanza. Deze unieke rotsformatie midden in het Victoriameer is een populaire plek voor foto’s en een must-see bij een bezoek aan de stad.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box7-4k"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            "h3, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "37",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "2. Victoriameer",
-          "text": "MHet op één na grootste zoetwatermeer ter wereld biedt mogelijkheden voor boottochten, vissen en genieten van prachtige zonsondergangen langs de oevers.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box7-4l"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            "h3, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "29",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "<div><br></div><div>3. Saanane Island National Park</div><div><br></div>",
-          "text": "Het eerste nationale eilandpark in Tanzania, bekend om zijn prachtige natuur, vogels en kleine wilde dieren zoals impala’s, apen en reptielen. Perfect voor een korte dagtrip.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box7-4m"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "21px"
-            },
-            ".btn": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ff0097",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "To book or plan your vacation",
-          "text": "Our experts can help you plan the once in a lifetime experience",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call our experts&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box2-4n"
-        },
-        {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, .lead": {
@@ -5305,64 +4991,6 @@
           "_name": "msg-box3",
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box3-4o"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "If you have any question",
-          "form": {
-            "action": "papercliq@outlook.com",
-            "alerts": {
-              "success": "Bedankt u krijgt zo spoedig mogelijk een reactie!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Naam*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Telefoon"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Bericht"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Verstuur</a>",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "form1-4p"
         },
         {
           "_tags": [

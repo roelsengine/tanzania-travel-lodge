@@ -1059,6 +1059,7 @@ section.form .container {
 
 
 
+
 #ext_menu-4t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1282,6 +1283,21 @@ section.form .container {
   color: #a0a0a0;
   font-size: 30px;
 }
+#msg-box3-4c .mbr-section-title,
+#msg-box3-4c .lead {
+  color: #000;
+}
+#msg-box3-4c .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-4c .lead {
+  color: #ffffff;
+}
+#msg-box3-4c .lead P {
+  font-size: 21px;
+  font-family: 'Lora', serif;
+}
 #header3-49 .mbr-section-title,
 #header3-49 .mbr-section-subtitle {
   text-align: center;
@@ -1300,16 +1316,17 @@ section.form .container {
   color: #bcbcbc;
 }
 #features4-4a .iconbox {
-  background-color: #7c706b;
-  border-color: #7c706b;
+  background-color: #fac51c;
+  border-color: #fac51c;
 }
 #features4-4a H4 {
   color: #efefef;
-  font-size: 24px;
+  font-size: 22px;
   text-align: center;
+  font-family: 'Lora', serif;
 }
 #features4-4a DIV {
-  font-size: 24px;
+  font-size: 22px;
   text-align: center;
 }
 #msg-box2-4b .mbr-section-title {
@@ -1322,21 +1339,6 @@ section.form .container {
 }
 #msg-box2-4b .btn {
   font-size: 20px;
-}
-#msg-box3-4c .mbr-section-title,
-#msg-box3-4c .lead {
-  color: #000;
-}
-#msg-box3-4c .mbr-section-title {
-  color: #ffffff;
-  font-size: 32px;
-}
-#msg-box3-4c .lead {
-  color: #ffffff;
-}
-#msg-box3-4c .lead P {
-  font-size: 21px;
-  font-family: 'Lora', serif;
 }
 #social-buttons4-4e .mbr-section-title,
 #social-buttons4-4e .btn-social {
@@ -1376,56 +1378,7 @@ section.form .container {
 #msg-box2-4h .btn {
   font-size: 20px;
 }
-#header3-4i .mbr-section-title,
-#header3-4i .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4i .mbr-section-title {
-  color: #ffffff;
-}
-#msg-box7-4j h3,
-#msg-box7-4j p {
-  color: #fff;
-}
-#msg-box7-4j P {
-  font-size: 20px;
-}
-#msg-box7-4k h3,
-#msg-box7-4k p {
-  color: #fff;
-}
-#msg-box7-4k P {
-  font-size: 20px;
-}
-#msg-box7-4l h3,
-#msg-box7-4l p {
-  color: #fff;
-}
-#msg-box7-4l P {
-  font-size: 20px;
-}
-#msg-box7-4m h3,
-#msg-box7-4m p {
-  color: #fff;
-}
-#msg-box7-4m P {
-  font-size: 20px;
-}
-#msg-box2-4n .mbr-section-title {
-  color: #fff;
-  font-size: 32px;
-}
-#msg-box2-4n .mbr-section-subtitle {
-  color: #ffffff;
-  font-size: 21px;
-}
-#msg-box2-4n .btn {
-  font-size: 20px;
-}
 #msg-box3-4o .mbr-section-title,
 #msg-box3-4o .lead {
   color: #000;
-}
-#form1-4p .form-control-label {
-  color: #232323;
 }
