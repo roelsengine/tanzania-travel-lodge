@@ -3967,7 +3967,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
@@ -3976,7 +3976,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4008,10 +4008,15 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_name": "msg-box4",
           "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box4-5u"
+          "_anchor": "msg-box4-5u",
+          "_styles": {
+            "H3": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_styles": {
